@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shagun 👋
+
+🎓 ECE (Data Science) Undergraduate  
+💻 Interested in Machine Learning & Computer Vision  
+
+## 🔧 Skills
+- Python, NumPy, Pandas
+- Machine Learning (Scikit-learn)
+- Basic Deep Learning
+
+## 📌 Projects
+- Fake News Detection using ML
+- [Add 1–2 more projects]
+
+## 🔗 Links
+- GitHub: https://github.com/shagun2745
 
 <!--
 **shagun2745/shagun2745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
