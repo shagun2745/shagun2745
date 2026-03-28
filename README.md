@@ -63,9 +63,10 @@
 
 ---
 
-## 🌐 Connect with Me
-
-* GitHub: https://github.com/shagun2745
+## 🌐 Connect with Me  
+🔗 GitHub: https://github.com/shagun2745  
+💼 LinkedIn: https://www.linkedin.com/in/shagun-sahu05
+ 
 
 ---
 
